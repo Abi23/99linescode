@@ -1,0 +1,15 @@
+.page {
+ background-color: rosybrown;
+}
+
+h1 {
+    color: brown;
+}
+
+.friend {
+    background-color:grey;
+}
+
+.friend h3 {
+ text-transform: uppercase;
+}
